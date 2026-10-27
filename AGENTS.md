@@ -1,6 +1,6 @@
 # AGENTS.md: EndureLuxe
 
-Status: root agent contract. Added 27 October 2026 under the Owner directive "Update AGENTS.md for Business takeover". Governing brand context is `docs/BRAND-AND-PRODUCT-AUTHORITY.md`; this file adds no brand, product, legal or commercial authority of its own and yields to that document on any conflict.
+Status: root agent contract. Added 27 October 2026 under the Owner directive "Update AGENTS.md for Business takeover". Governing brand context is `docs/BRAND-AND-PRODUCT-AUTHORITY.md`; this file adds no brand, product, legal or commercial authority of its own and yields to that document on any conflict. The engineering permission in the succession section below derives from the Owner directive of 27 October 2026, which this repository does not itself evidence.
 
 ## Restart order
 
@@ -8,7 +8,7 @@ Read in this order before any work:
 
 1. `docs/BRAND-AND-PRODUCT-AUTHORITY.md`
 2. Current repository source (including `README.md`)
-3. Current product and commercial authority (as stated in the documents above)
+3. Current product and commercial authority, only as stated in the brand authority or a later Owner-ratified document; assume none other
 4. Bounded implementation
 
 ## Estate boundary
