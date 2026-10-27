@@ -34,6 +34,6 @@ V1 founding registration intentionally avoids health/special-category data. Prog
 
 ## Source and build authority
 
-GitHub repository `AbrahamofLondon/endureluxe.com` is the durable source authority once V1 is merged to `main`. Lovable is the preferred build/edit/deployment plane and should be connected to this repository when workspace build credits are available.
+GitHub repository `abraham-of-london/endureluxe.com` (formerly addressed as `AbrahamofLondon/endureluxe.com`; Owner-confirmed 27 October 2026) is the durable source authority once V1 is merged to `main`. Lovable is the preferred build/edit/deployment plane and should be connected to this repository when workspace build credits are available.
 
 Canonical domain target: `endureluxe.com`.
