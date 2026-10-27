@@ -16,7 +16,7 @@ Read in this order before any work:
 - EndureLuxe is an independent consumer physical-resilience and consistency brand.
 - Abraham of London is a separate intellectual, publishing and research estate.
 - Alomarada Ltd is a separate, separately governed institutional commercial firm.
-- EndureLuxe sits outside the AOL and Alomarada Master Programme. Master Programme ledgers, return packages and workstream authority do not bind this repository and must not be copied into it.
+- AOL–Alomarada Master Programme ledgers, return packages and workstream authority are not EndureLuxe brand, product or commercial authority, and must not stand in for `docs/BRAND-AND-PRODUCT-AUTHORITY.md`. A relationship between the estates exists only where the Owner or a separately documented arrangement establishes it. This file does not decide whether any wider Owner authority reaches EndureLuxe; it only stops Master Programme documents being imported here as EndureLuxe authority.
 - No automatic data exchange between estates. Participant data must not flow to Abraham of London research or publication systems or to Alomarada commercial systems.
 
 ## Brand and product (preserve)
@@ -29,7 +29,7 @@ Read in this order before any work:
 
 ## Business succession (effective 27 October 2026)
 
-- Business Codex may carry out ordinary authorised engineering and independent review in this repository, within the boundary above.
+- Under the Owner directive of 27 October 2026, Business Codex may carry out ordinary authorised engineering and independent review in this repository, within the boundary above.
 - Operations that need separate competent authority (credentials, deployment, domain or DNS changes, production or payment systems, anything reserved to a named person or protected environment) stay blocked until that authority is shown. Source-edit permission does not imply permission for any of them.
 - Historical records and earlier-session material are evidence, not mandatory executors. Do not silently replace or contradict them; record any continuation traceably.
 
